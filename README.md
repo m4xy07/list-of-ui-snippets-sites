@@ -1,6 +1,6 @@
 # List of UI Snippet Sites
 
-#### This is a consolidated list of UI Snippet sites so that you can easily find the style you are looking for.
+#### This is a consolidated list of UI Snippet sites so that you can easily find the style you are looking for. 
 
 ## Tailwind CSS
 
